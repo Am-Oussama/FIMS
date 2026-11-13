@@ -177,6 +177,6 @@ See the `LICENSE` file for more information.
 ## 👤 Author
 
 **Oussema A.M**  
-GitHub: [Am-Oussema](https://github.com/Am-Oussema)
+GitHub: [Am-Oussema](https://github.com/Am-Oussama)
 
 ---
